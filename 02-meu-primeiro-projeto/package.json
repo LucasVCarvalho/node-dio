@@ -1,5 +1,5 @@
 {
-  "name": "meu-primeiro-projeto",
+  "name": "my-first-project",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,5 +7,5 @@
   },
   "author": "lucas-carvalho",
   "license": "ISC",
-  "description": ""
+  "description": "My first project"
 }
