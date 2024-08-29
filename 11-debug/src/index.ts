@@ -1,4 +1,11 @@
+import { getBaseEmail } from "./services/email";
 
-export function sayHelloWorld(world: string) {
-  return `Hello ${world}`;
+async function main() {
+  console.log(await getBaseEmail("licas"));
+  console.log("finalizado")
+  console.log("...")
 }
+
+main();
+
+
