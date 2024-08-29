@@ -1,3 +1,7 @@
+# Inicializar Node com TS com 1 linha
+
+npm init -y typescript -D
+
 # Inicializa um projeto Node.js
 
 npm init -y
@@ -28,3 +32,4 @@ referencias: https://www.typescriptlang.org/tsconfig/
 "start:watch": "tsx watch src/index.ts",
 "start:dist": "npm run dist && node dist/index.js"
 },
+
