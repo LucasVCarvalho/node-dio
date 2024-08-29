@@ -17,6 +17,8 @@ npm i typescript tsx tsup -D
 # Cria o arquivo tsconfig
 
 npx tsc --init
+configure depois a forma que deseja que o tsconfig funcione
+referencias: https://www.typescriptlang.org/tsconfig/
 
 # Scripts padrões
 
