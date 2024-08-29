@@ -1,1 +1,4 @@
 07-npm-packages-basic/node_modules/
+09-npm-envirmont/.env
+09-npm-envirmont/.env.dev
+09-npm-envirmont/.env.prod
