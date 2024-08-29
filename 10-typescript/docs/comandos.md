@@ -12,7 +12,7 @@ echo 'console.log("hello world");' > src\dado.ts
 
 # Instala as dependências
 
-npm i typescript tsx tsup
+npm i typescript tsx tsup -D
 
 # Cria o arquivo tsconfig
 
