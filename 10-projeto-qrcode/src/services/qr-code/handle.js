@@ -5,7 +5,7 @@ import chalk from "chalk";
 async function handle(err, result) {
     if (err) {
         console.log("error on application");
-        result;
+        return;
     }
     const isSmall = result.type == 2;
     qrcode.generate(result.link, { small: isSmall }, (qrcode) => {
